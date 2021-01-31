@@ -28,5 +28,5 @@ Movie.prototype.getOverview = function () {
 //   }
 // }
 
-const et = new Movie('ET', 'Steven Spielberg', 'Alien', 1990, 8);
+const et = new Movie('ET', 'Steven Spielberg', 'Sci-Fi', 1982, 8);
 console.log(et.getOverview());
