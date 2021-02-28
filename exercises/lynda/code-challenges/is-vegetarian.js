@@ -19,6 +19,10 @@ const menu = [
     name: 'Filet mignon',
     isVegetarian: false,
   },
+  {
+    name: 'Cabbage soup',
+    isVegetarian: true,
+  },
 ];
 
 const vegetarianFoods = menu.filter((food) => food.isVegetarian);
