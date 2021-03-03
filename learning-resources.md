@@ -15,6 +15,7 @@
 - Caleb Curry
 - codeSTACKr
 - realtoughcandy
+- Dev ed
 
 ## Learning Platforms
 
@@ -24,6 +25,9 @@
 - edx
 - coursera
 - udemy
+- Udacity
+- KhanAcademy
+- MIT OpenCourseWare
 - [CSX Codesmith](https://csx.codesmith.io/)
 
 ## Algorithms Challenges
@@ -31,6 +35,7 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 - [CodingBat](https://codingbat.com/java)
+- [Codewars]
 
 ## Articles
 
@@ -38,3 +43,13 @@
 - [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
 - [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 - [How to get motivated and take action](https://markmanson.net/how-to-get-motivated)
+
+## Best Udemy instructors
+
+- Jonas Schmedtmann
+- Colt Steele
+- Academind
+- Stephen Grider
+- Angela Yu
+- Anthony Alicea
+- Brad Traversy
